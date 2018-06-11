@@ -1,5 +1,5 @@
 ---
-layout: projectsss
+layout: post
 title:  "My test"
 date:   2018-06-12
 excerpt: "My test script."
