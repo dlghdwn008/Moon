@@ -90,7 +90,7 @@ Available values: [1..3].
 It will look something like this:
 
 {% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
+	https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-73603-7_40/MediaObjects/462967_1_En_40_Fig2_HTML.gif
 	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
 	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
 {% endcapture %}
