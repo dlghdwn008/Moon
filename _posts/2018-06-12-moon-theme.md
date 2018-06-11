@@ -3,7 +3,7 @@ layout: post
 title:  "My test"
 date:   2018-06-12
 excerpt: "My test script."
-projectsss: true
+project: true
 tag:
 - sample
 - post
