@@ -18,7 +18,7 @@ comments: false
 * Page for sharing projects
 * Optional background image
 * Simple navigation menu
-<center> * MathJax support <center>
+* MathJax support
 
 ## Previewaa
 {% capture images %}
