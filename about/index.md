@@ -22,8 +22,8 @@ comments: false
 
 ## Preview
 <figure class="half">
-    <a href="/assets/img/selfie.jpg"><img src="/assets/img/selfie.jpg"></a>
-    <a href="/assets/img/selfie.jpg"><img src="/assets/img/selfie.jpg"></a>
+    <img src="/assets/img/selfie.jpg"></a>
+    <img src="/assets/img/selfie.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
