@@ -21,7 +21,7 @@ comments: false
 * MathJax support
 
 ## Preview
-<p><img src="https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true" alt="1" title="Title" /></p>
+
 {% capture images %}
     https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
