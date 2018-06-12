@@ -22,8 +22,8 @@ comments: false
 
 ## Preview
 <figure class="half">
-    <img src="https://github.com/dlghdwn008/redwine/tree/gh-pages/assets/img/assets/img/selfie.jpg">
-    <img src="https://github.com/dlghdwn008/redwine/tree/gh-pages/assets/img/assets/img/selfie.jpg">
+    <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
+    <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
