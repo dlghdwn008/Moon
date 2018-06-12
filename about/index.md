@@ -24,7 +24,7 @@ comments: false
 {% capture images %}
     https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true
 {% endcapture %}
-
+{% include gallery images=images caption="Test images" cols=1 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
