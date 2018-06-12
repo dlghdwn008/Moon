@@ -22,7 +22,7 @@ comments: false
 
 ## Previewaa
 {% capture images %}
-    <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
+    https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true
 {% endcapture %}
 
 
