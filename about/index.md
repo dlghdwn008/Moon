@@ -20,7 +20,7 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
-## Previewaa
+<center> ## Previewaa <cencter>
 <figure class="half">
     <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
     <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
