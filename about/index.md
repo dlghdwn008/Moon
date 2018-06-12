@@ -23,7 +23,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-    ![My helpful screenshot]({{"/assets/selfie.jpg" | absolute_url}})
+    ![My helpful screenshot]({{"/assets/img/selfie.jpg" | absolute_url}})
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
