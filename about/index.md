@@ -21,11 +21,10 @@ comments: false
 <center> * MathJax support <center>
 
 ## Previewaa
-<figure class="half">
+{% capture images %}
     <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
-    <img src="https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true">
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+{% endcapture %}
+
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
