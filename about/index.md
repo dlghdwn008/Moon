@@ -12,6 +12,11 @@ comments: false
 {% include gallery images=images cols=1 %}
 <center><a href="https://dlghdwn008.github.io/redwine/about/"><b>HongJoo</b></a></center>
 
+## About me
+* Master Student at Korea Advanced Institute of Science and Technology
+* A member of Image&Video System Laboratory [IVYLAB](http://ivylab.kaist.ac.kr/main.asp)
+* Contact : dlghdwn008@kaist.ac.kr
+
 ## Education
 * B.S, Electronic Engineering, Ajou University (Suwon)
 * M.S, Electronic Engineering, KAIST(Korea Advanced Institute of Science Technology)(Daejeon)
@@ -25,12 +30,6 @@ comments: false
  * Medical Image Analysis
     - Uterus Landmark Detection
 
-
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Publications
+* Interational Conference
+    - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling 
