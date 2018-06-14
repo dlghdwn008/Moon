@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 {% capture images %}
-   https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-73603-7_40/MediaObjects/462967_1_En_40_Fig2_HTML.gif
+   https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-73603-7_40/MediaObjects/462967_1_En_40_Fig1_HTML.gif
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
