@@ -7,7 +7,7 @@ comments: false
 ---
 
 {% capture images %}
-    https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/selfie.jpg?raw=true
+    https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/JK.jpg?raw=true
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 <center><a href="https://dlghdwn008.github.io/redwine/about/"><b>HongJoo</b></a></center>
