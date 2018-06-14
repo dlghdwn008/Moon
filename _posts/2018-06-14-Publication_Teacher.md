@@ -11,8 +11,9 @@ tag:
 comments: true
 ---
 {% capture images %}
-    https://github.com/dlghdwn008/redwine/blob/gh-pages/assets/img/fig.jpg?raw=true
+   https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-73603-7_40/MediaObjects/462967_1_En_40_Fig2_HTML.gif
 {% endcapture %}
+{% include gallery images=images cols=1 %}
 
 ## Abstract
 Compact neural networks with limited memory and computation are demanding in recently popularized mobile applications. The reduction of network parameters is an important priority. In this paper, we address a compact neural network for facial landmark detection. The facial landmark detection is a frontal module that is mandatorily required for face analysis applications. We propose a new teacher and student joint learning method applicable to a compact facial landmark detection network. In the proposed learning scheme, the compact architecture of student regression network is learned jointly with the fully connected layer of the teacher regression network so that they are mimicked each other. To demonstrate the effectiveness of the proposed learning method, experiments were performed on a public database. The experimental results showed that the proposed method could reduce network parameters while maintaining comparable performance to state-of-the-art methods.
