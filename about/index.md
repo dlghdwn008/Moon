@@ -12,19 +12,19 @@ comments: false
 {% include gallery images=images cols=1 %}
 <center><a href="https://dlghdwn008.github.io/redwine/about/"><b>HongJoo</b></a></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education
+* B.S, Electronic Engineering, Ajou University (Suwon)
+* M.S, Electronic Engineering, KAIST(Korea Advanced Institute of Science Technology)(Daejeon)
 
-## Previewaa
+## Research Field
+* Deep Learning
+* Facial Image Analysis with Deep Learning
+  - Facial Expression Recognition
+  - Facial Landmark Detection with Generative Adversarial Network
+ * Deep Neural Network Compression
+ * Medical Image Analysis
+    - Uterus Landmark Detection
+
 
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
