@@ -14,7 +14,7 @@ comments: false
 
 ## About me
 * Master Student at Korea Advanced Institute of Science and Technology
-* A member of Image&Video System Laboratory [IVYLAB](http://ivylab.kaist.ac.kr/main.asp)
+* A member of Image&Video System Laboratory [IVYLAB](http://ivylab.kaist.ac.kr)
 * Contact : dlghdwn008@kaist.ac.kr
 
 ## Education
