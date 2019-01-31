@@ -31,5 +31,7 @@ comments: false
     - Uterus Landmark Detection
 
 ## Publications
-* Interational Conference
+* International Conference
     - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling 
+* International Journal
+    - "Lightweight and EffectiveFacial Landmark Detection using Adversarial Learning with Face GeometricMap Generative Network", Accepted to IEEE Transactions on Circuit Systems and Video Technology(IF:3.558)
