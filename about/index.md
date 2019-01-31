@@ -32,6 +32,7 @@ comments: false
 
 ## Publications
 * International Conference
-    - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling 
+    - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling
+    - "Region-guided adversarial learning for anatomical landmark detection in uterus ultrasound image", Accepted to SPIE Medical Image 2019
 * International Journal
     - "Lightweight and EffectiveFacial Landmark Detection using Adversarial Learning with Face GeometricMap Generative Network", Accepted to IEEE Transactions on Circuit Systems and Video Technology(IF:3.558)
