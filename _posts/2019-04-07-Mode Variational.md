@@ -1,31 +1,38 @@
 ---
 layout: post
-title:  "Object Bounding Box Critic Networks for Occlusion-robust Object Detection in Road Scene"
-date:   2019-02-01
-excerpt: "IEEE International Conference on Image Processing (ICIP2018)"
+title:  "Mode Variational LSTM Robust to Unseen Modes of Variation: Application to Facial Expression Recognition"
+date:   2019-04-07
+excerpt: "AAAI 2019"
 deeplearning: true
 tag:
-- Object detection
-- Adversarial learning
-- Actor-critic network
+- LSTM
+- Mode Variational LSTM
+- Facial Expression Recognition
 comments: true
 ---
 {% capture images %}
-   http://ivylabprev.kaist.ac.kr/research_results/Object%20Bounding%20Box-Critic%20Networks%20for%20Occlusion-Robust%20Object%20Detection%20in%20Road%20Scene_thum.png
+  https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiKgtvlm77hAhULvbwKHbDGBh8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FMode-Variational-LSTM-Robust-to-Unseen-Modes-of-to-Baddar-Ro%2F7262219bcf91084d5c3a058fc2968363680d372a&psig=AOvVaw2HuFm8SvJ-QcyyC3QJFt8p&ust=1554734567640342
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
 ## Abstract
-Object detection in a road scene has received a significant
-attention from research fields of developing autonomous
-vehicle and automatic road monitoring systems. However,
-object occlusion problems frequently occur in generic road
-scenes. Due to such occlusion problems, previous object
-detection methods have limitations of not being able to detect objects accurately. In this paper, we propose a novel
-object detection network which is robust in occlusions. For
-effective object detection even with occlusion, the proposed
-network mainly consists of two parts; 1) Object detection
-framework, 2) Multiple object bounding box (OBB)-Critic
-network for predicting a BB map which estimates both object region and occlusion region. Comprehensive experimental results on a KITTI Vision Benchmark Suite dataset
-showed that the proposed object detection network outperformed the state-of-the-art methods.
-* Full paper can see in [Here](https://ieeexplore.ieee.org/document/8451034)
+Spatio-temporal feature encoding is essential for encoding
+the dynamics in video sequences. Recurrent neural networks,
+particularly long short-term memory (LSTM) units, have
+been popular as an efficient tool for encoding spatio-temporal
+features in sequences. In this work, we investigate the effect
+of mode variations on the encoded spatio-temporal features
+using LSTMs. We show that the LSTM retains information
+related to the mode variation in the sequence, which is irrelevant to the task at hand (e.g. classification facial expressions).
+Actually, the LSTM forget mechanism is not robust enough
+to mode variations and preserves information that could negatively affect the encoded spatio-temporal features. We propose the mode variational LSTM to encode spatio-temporal
+features robust to unseen modes of variation. The mode variational LSTM modifies the original LSTM structure by adding
+an additional cell state that focuses on encoding the mode
+variation in the input sequence. To efficiently regulate what
+features should be stored in the additional cell state, additional gating functionality is also introduced. The effectiveness of the proposed mode variational LSTM is verified using the facial expression recognition task. Comparative experiments on publicly available datasets verified that the proposed mode variational LSTM outperforms existing methods.
+Moreover, a new dynamic facial expression dataset with different modes of variation, including various modes like pose
+and illumination variations, was collected to comprehensively
+evaluate the proposed mode variational LSTM. Experimental results verified that the proposed mode variational LSTM
+encodes spatio-temporal features robust to unseen modes of
+variation.
+* Full paper can see in [Here](https://arxiv.org/pdf/1811.06937.pdf)
