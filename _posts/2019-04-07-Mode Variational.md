@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 {% capture images %}
-  https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiKgtvlm77hAhULvbwKHbDGBh8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FMode-Variational-LSTM-Robust-to-Unseen-Modes-of-to-Baddar-Ro%2F7262219bcf91084d5c3a058fc2968363680d372a&psig=AOvVaw2HuFm8SvJ-QcyyC3QJFt8p&ust=1554734567640342
+  https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7262219bcf91084d5c3a058fc2968363680d372a/4-Figure2-1.png
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
