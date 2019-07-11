@@ -36,6 +36,6 @@ comments: false
     - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling 2018
     - "Region-guided adversarial learning for anatomical landmark detection in uterus ultrasound image", Accepted to SPIE Medical Image 2019
 * International Journal
-    - "Lightweight and EffectiveFacial Landmark Detection using Adversarial Learning with Face GeometricMap Generative Network", Accepted to IEEE Transactions on Circuit Systems and Video Technology(IF:3.558)
+    - "Lightweight and EffectiveFacial Landmark Detection using Adversarial Learning with Face GeometricMap Generative Network", Accepted to IEEE Transactions on Circuit Systems and Video Technology(IF:4.046, Year:2019)
     - "Endometrium Segmentation on TVUS Image Using Key-point Discriminator",
-Accepted to Medical Physics (IF: 2.884)
+Accepted to Medical Physics (IF: 3.177, Year: 2019)
