@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 {% capture images %}
-   https://www.spiedigitallibrary.org/ContentImages/Proceedings/10949/1094937/FigureImages/00192_PSISDG10949_1094937_page_2_1.jpg
+
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
