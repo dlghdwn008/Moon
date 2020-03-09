@@ -34,7 +34,9 @@ comments: false
 ## Publications
 * International Conference
     - "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network", Interational Conference on Multimedia Modeling 2018
-    - "Region-guided adversarial learning for anatomical landmark detection in uterus ultrasound image", Accepted to SPIE Medical Image 2019
+    - "Region-guided adversarial learning for anatomical landmark detection in uterus ultrasound image", SPIE Medical Image 2019
+    - "Face Tells Detailed Expression: Generating Comprehensive Facial Expression Sentence Through Facial Action Units", Internetional Conference on Multimedia Modeling 2020
+    - "Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary", IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020
 * International Journal
     - "Lightweight and EffectiveFacial Landmark Detection using Adversarial Learning with Face GeometricMap Generative Network", Accepted to IEEE Transactions on Circuit Systems and Video Technology(IF:4.046, Year:2019)
     - "Endometrium Segmentation on TVUS Image Using Key-point Discriminator",
