@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Face Tells Detailed Expression: Generating Comprehensive Facial Expression Sentence Through Facial Action Units"
+date:   2019-12-24
+excerpt: "International Conference on Multimedia Modeling (MMM2020)"
+publication: true
+tag:
+- Facial expression sentence generation
+- Explaining expression from a single face image
+- Facial action unit
+comments: true
+---
+{% capture images %}
+   https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-37734-2_9/MediaObjects/493696_1_En_9_Fig2_HTML.png
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
+## Abstract
+Human facial expression plays the key role in the understanding of the social behavior. Many deep learning approaches present facial emotion recognition and automatic image captioning considering human sentiments. However, most current deep learning models for facial expression analysis do not contain comprehensive, detailed information of a single face. In this paper, we newly introduce a text-based facial expression description using several essential components describing comprehensive facial expression: gender, facial action units, and corresponding intensities. Then, we propose comprehensive facial expression sentence generating model along with facial expression recognition model for a single facial image to verify the effectiveness of our text-based dataset. Experimental results show that the proposed two models are supporting each other improving their performances: the text-based facial expression description provides comprehensive semantic information to the facial emotion recognition model. Also, the visual information from the emotion recognition model guides the facial expression sentence generation to produce a proper sentence describing comprehensive description.
+
+* Full paper can see in [Here](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_9)
