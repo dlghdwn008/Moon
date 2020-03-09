@@ -14,4 +14,4 @@ comments: true
 
 ## Abstract
 Transvaginal ultrasound imaging provides useful information for diagnosing endometrial pathologies and reproductive health. Endometrium segmentation in transvaginal ultrasound (TVUS) images is very challenging due to ambiguous boundaries and heterogeneous textures. In this study, we developed a new segmentation framework which provides robust segmentation against ambiguous boundaries and heterogeneous textures of TVUS images.
-* Accepted (Will be posted)
+* Full paper can see in [Here](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13677)
